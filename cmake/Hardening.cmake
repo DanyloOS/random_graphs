@@ -1,7 +1,7 @@
 include(CheckCXXCompilerFlag)
 
 macro(
-  myproject_enable_hardening
+  random_graphs_enable_hardening
   target
   global
   ubsan_minimal_runtime)
